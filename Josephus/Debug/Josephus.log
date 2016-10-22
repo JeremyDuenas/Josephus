@@ -1,0 +1,4 @@
+﻿  Source.cpp
+c:\users\ssjjh_000\documents\visual studio 2015\projects\josephus\josephus\source.cpp(10): warning C4101: 'positionCounter': unreferenced local variable
+c:\users\ssjjh_000\documents\visual studio 2015\projects\josephus\josephus\source.cpp(48): warning C4018: '<': signed/unsigned mismatch
+  Josephus.vcxproj -> C:\Users\ssjjh_000\Documents\Visual Studio 2015\Projects\Josephus\Debug\Josephus.exe
